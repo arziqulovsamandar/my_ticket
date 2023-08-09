@@ -1,0 +1,10 @@
+export declare class UpdateCustomerCardDto {
+    name?: string;
+    phone?: string;
+    number?: string;
+    year?: string;
+    month?: string;
+    is_active?: boolean;
+    is_main?: boolean;
+    customer_id?: number;
+}
